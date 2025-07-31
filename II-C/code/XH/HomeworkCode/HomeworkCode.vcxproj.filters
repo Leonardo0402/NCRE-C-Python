@@ -24,5 +24,11 @@
     <ClCompile Include="1.3.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2.1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
