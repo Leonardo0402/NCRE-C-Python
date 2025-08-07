@@ -32,14 +32,35 @@ void reverse()
 	int bw = a % 1000 / 100;
 	int sw = a % 100 / 10;
 	int gw = a % 10;
-	printf("the reverse is %d%d%d%d\n",gw,sw,bw,qw);
+	printf("the reverse is %d%d%d%d\n",gw, sw, bw, qw);
+}
+
+void swap() {
+	int a = 10, b = 20;
+	int tmp = a;
+	a = b;
+	b = tmp;
+	printf("%d %d\n",a, b);
+}
+
+void io() {
+	char ch;
+	scanf("%c", &ch);
+	printf("ch = %c\n", ch);
+
+	getchar();
+	ch = getchar();
+	putchar(ch);
+	printf("\n");
 }
 
 int main()
 {
 	// circle_area();
 	// calculate();
-	reverse();
+	// reverse();
+	// swap();
+	io();
 	return 0;
 }
 
