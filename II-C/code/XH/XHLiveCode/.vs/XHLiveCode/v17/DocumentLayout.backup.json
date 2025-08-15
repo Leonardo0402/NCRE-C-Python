@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\For The Future\\CS II\\II-C\\code\\XH\\XHLiveCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CDF8E3B-C2EA-4150-BDEC-9026572BB066}|XHLiveCode.vcxproj|E:\\For The Future\\CS II\\II-C\\code\\XH\\XHLiveCode\\secondlive.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CDF8E3B-C2EA-4150-BDEC-9026572BB066}|XHLiveCode.vcxproj|solutionrelative:secondlive.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CDF8E3B-C2EA-4150-BDEC-9026572BB066}|XHLiveCode.vcxproj|E:\\For The Future\\CS II\\II-C\\code\\XH\\XHLiveCode\\firstLive.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6CDF8E3B-C2EA-4150-BDEC-9026572BB066}|XHLiveCode.vcxproj|solutionrelative:firstLive.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "firstLive.c",
               "DocumentMoniker": "E:\\For The Future\\CS II\\II-C\\code\\XH\\XHLiveCode\\firstLive.c",
               "RelativeDocumentMoniker": "firstLive.c",
               "ToolTip": "E:\\For The Future\\CS II\\II-C\\code\\XH\\XHLiveCode\\firstLive.c",
               "RelativeToolTip": "firstLive.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAD4vzIAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-25T16:58:19.099Z",
+              "WhenOpened": "2025-08-15T09:54:00.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secondlive.c",
+              "DocumentMoniker": "E:\\For The Future\\CS II\\II-C\\code\\XH\\XHLiveCode\\secondlive.c",
+              "RelativeDocumentMoniker": "secondlive.c",
+              "ToolTip": "E:\\For The Future\\CS II\\II-C\\code\\XH\\XHLiveCode\\secondlive.c*",
+              "RelativeToolTip": "secondlive.c*",
+              "ViewState": "AgIAAEUAAAAAAAAAAADwv1gAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-15T09:12:00.659Z",
               "EditorCaption": ""
             }
           ]
