@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5170BD53-50C4-4980-AC79-F9026D5F1E66}|HomeworkCode.vcxproj|E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\2.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5170BD53-50C4-4980-AC79-F9026D5F1E66}|HomeworkCode.vcxproj|solutionrelative:2.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5170BD53-50C4-4980-AC79-F9026D5F1E66}|HomeworkCode.vcxproj|E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\3.3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5170BD53-50C4-4980-AC79-F9026D5F1E66}|HomeworkCode.vcxproj|solutionrelative:3.3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5170BD53-50C4-4980-AC79-F9026D5F1E66}|HomeworkCode.vcxproj|E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\2.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5170BD53-50C4-4980-AC79-F9026D5F1E66}|HomeworkCode.vcxproj|solutionrelative:2.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5170BD53-50C4-4980-AC79-F9026D5F1E66}|HomeworkCode.vcxproj|E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\3.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5170BD53-50C4-4980-AC79-F9026D5F1E66}|HomeworkCode.vcxproj|solutionrelative:3.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5170BD53-50C4-4980-AC79-F9026D5F1E66}|HomeworkCode.vcxproj|E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\3.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5170BD53-50C4-4980-AC79-F9026D5F1E66}|HomeworkCode.vcxproj|solutionrelative:3.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2.2.c",
-              "DocumentMoniker": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\2.2.c",
-              "RelativeDocumentMoniker": "2.2.c",
-              "ToolTip": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\2.2.c*",
-              "RelativeToolTip": "2.2.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Title": "3.3.c",
+              "DocumentMoniker": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\3.3.c",
+              "RelativeDocumentMoniker": "3.3.c",
+              "ToolTip": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\3.3.c",
+              "RelativeToolTip": "3.3.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-31T09:24:14.199Z",
+              "WhenOpened": "2025-08-25T15:59:38.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "2.1.c",
-              "DocumentMoniker": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\2.1.c",
-              "RelativeDocumentMoniker": "2.1.c",
-              "ToolTip": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\2.1.c",
-              "RelativeToolTip": "2.1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Title": "3.2.c",
+              "DocumentMoniker": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\3.2.c",
+              "RelativeDocumentMoniker": "3.2.c",
+              "ToolTip": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\3.2.c*",
+              "RelativeToolTip": "3.2.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-31T09:00:29.316Z",
+              "WhenOpened": "2025-08-25T15:51:34.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3.1.c",
+              "DocumentMoniker": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\3.1.c",
+              "RelativeDocumentMoniker": "3.1.c",
+              "ToolTip": "E:\\For The Future\\CS II\\II-C\\code\\XH\\HomeworkCode\\3.1.c",
+              "RelativeToolTip": "3.1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-25T15:41:36.104Z",
               "EditorCaption": ""
             }
           ]
